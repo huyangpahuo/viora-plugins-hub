@@ -1,22 +1,8 @@
 {
   "version": 1,
   "updated": "2026-10-25",
-  "count": 2,
+  "count": 1,
   "presets": [
-    {
-      "pluginId": "huyangpahuo.mimi",
-      "name": {
-        "zh": "mimi"
-      },
-      "author": "huyangpahuo",
-      "category": "Style.Cat.RetroFilm",
-      "version": "1.0.0",
-      "package": "packages/huyangpahuo.mimi.zip",
-      "description": {
-        "zh": "牛逼的插件"
-      },
-      "tags": []
-    },
     {
       "pluginId": "huyangpahuo.mhh",
       "name": {
