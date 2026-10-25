@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "updated": "2026-10-25",
+  "count": 1,
+  "presets": [
+    {
+      "pluginId": "huyangpahuo.mimi",
+      "name": {
+        "zh": "ohye"
+      },
+      "author": "huyangpahuo",
+      "category": "Style.Cat.Cyberpunk",
+      "version": "1.0.0",
+      "package": "packages/huyangpahuo.mimi.zip",
+      "description": {
+        "zh": "我是嘉豪,这是插件"
+      }
+    }
+  ]
+}
