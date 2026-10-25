@@ -1,7 +1,7 @@
 {
   "version": 1,
   "updated": "2026-10-25",
-  "count": 1,
+  "count": 2,
   "presets": [
     {
       "pluginId": "huyangpahuo.mhh",
@@ -14,6 +14,20 @@
       "package": "packages/huyangpahuo.mhh.zip",
       "description": {
         "zh": "dhjkzallsjs"
+      },
+      "tags": []
+    },
+    {
+      "pluginId": "huyangpahuo.yahoo",
+      "name": {
+        "zh": "yahoo"
+      },
+      "author": "huyangpahuo",
+      "category": "Style.Cat.Sketch",
+      "version": "1.0.0",
+      "package": "packages/huyangpahuo.yahoo.zip",
+      "description": {
+        "zh": "doosjjlll"
       },
       "tags": []
     }
