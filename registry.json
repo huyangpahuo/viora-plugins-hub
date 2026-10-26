@@ -1,22 +1,8 @@
 {
   "version": 1,
-  "updated": "2026-10-25",
-  "count": 2,
+  "updated": "2026-10-26",
+  "count": 1,
   "presets": [
-    {
-      "pluginId": "huyangpahuo.mhh",
-      "name": {
-        "zh": "mhh"
-      },
-      "author": "huyangpahuo",
-      "category": "Style.Cat.Sketch",
-      "version": "1.0.0",
-      "package": "packages/huyangpahuo.mhh.zip",
-      "description": {
-        "zh": "dhjkzallsjs"
-      },
-      "tags": []
-    },
     {
       "pluginId": "huyangpahuo.yahoo",
       "name": {
